@@ -8,7 +8,7 @@ Instead of juggling random timer websites and losing track of progress, StudyFlo
 
 ## Preview
 
-
+<img width="1512" height="848" alt="Captură de ecran din 2026-11-10 la 22 23 03" src="https://github.com/user-attachments/assets/cfe3925d-b43b-4593-a5bc-c4723f7c7dde" />
 
 ---
 
