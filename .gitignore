@@ -1,0 +1,5 @@
+/node_modules/
+/backend/studyflow-api.iml
+/backend/target
+/backend/.idea
+.idea
